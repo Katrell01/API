@@ -1,0 +1,10 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\TaxJarApiTest.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\TaxJarApiTest.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\obj\Debug\TaxJarApiTest.csprojResolveAssemblyReference.cache
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\obj\Debug\TaxJarApiTest.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\TaxJarApiTest\obj\Debug\TaxJarApiTest.pdb

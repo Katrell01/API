@@ -1,0 +1,7 @@
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Owner\documents\visual studio 2015\Projects\IMC\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
